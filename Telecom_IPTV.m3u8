@@ -181,6 +181,8 @@ http://27.148.240.138/PLTV/88888888/224/3221226999/1.m3u8
 http://27.148.240.138/PLTV/88888888/224/3221226740/1.m3u8
 #EXTINF:-1 tvg-name="高网频道" group-title="其他频道",高网频道
 http://27.148.240.138/PLTV/88888888/224/3221227132/1.m3u8
+#EXTINF:-1 tvg-name="股评汇" group-title="其他频道",股评汇
+http://27.148.240.138/PLTV/88888888/224/3221226835/1.m3u8
 #EXTINF:-1 tvg-name="健身频道" group-title="其他频道",健身频道
 http://27.148.240.138/PLTV/88888888/224/3221226845/1.m3u8
 #EXTINF:-1 tvg-name="测试频道" group-title="其他频道",测试频道
@@ -188,3 +190,14 @@ http://27.148.240.138/PLTV/88888888/224/3221226974/1.m3u8
 #EXTINF:-1 tvg-name="华数电影" group-title="其他频道",华数电影
 http://27.148.240.138/PLTV/88888888/224/3221226758/1.m3u8
 #EXTINF:-1 tvg-name="电视剧" group-title="其他频道",电视剧
+http://27.148.240.138/PLTV/88888888/224/3221226772/1.m3u8
+#EXTINF:-1 tvg-id="家有购物" tvg-name="家有购物" tvg-logo="https://live.fanmingming.com/tv/家有购物.png" group-title="购物频道",家有购物
+http://27.148.240.138/PLTV/88888888/224/3221226896/1.m3u8
+#EXTINF:-1 tvg-id="快乐购" tvg-name="快乐购" tvg-logo="https://live.fanmingming.com/tv/快乐购.png" group-title="购物频道",快乐购
+http://27.148.240.138/PLTV/88888888/224/3221227037/1.m3u8
+#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="购物频道",央广购物
+http://27.148.240.138/PLTV/88888888/224/3221226826/1.m3u8
+#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="购物频道",央广购物
+http://27.148.240.181/
+#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="购物频道",央广购物
+http://27.148.240.189/
